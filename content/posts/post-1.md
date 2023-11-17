@@ -15,7 +15,7 @@ Come dici anche tu, forse esprimiamo affetto in modi diversi. Io ho sempre sotto
 
 So che starai pensando che tutto questo è ormai superfluo e che arriva fuori tempo massimo, tutto sommato ci sta dire "sticazzi, tanto non ci vedremo più, che importanza ha, non ho più voglia di parlare di queste cose" e hai ragione. Tuttavia, sarà anche vero che manca un mese, che alla fine di tutto questo tempo non ti conosco, che è stata solo una parentesi, ma in questi mesi hai fatto parte della mia vita e volevo trovare un modo per esprimerti con calma ciò che ho provato negli ultimi giorni.
 
-Vorrei trascorrere quest'ultimo mese con te con tranquillità e con affetto, anche se lo comunichiamo a modo nostro, non importa. Se hai voglia, continua a dirmi come ti senti, i dubbi che hai, le scelte che vuoi prendere per il futuro. A me fa sempre piacere essere coinvolto, e se me lo concedi, dirti cosa ne penso. Se vorrai ti esprimerò anche io come mi sento, magari a modo mio, magari non sempre.
+Vorrei trascorrere quest'ultimo mese con te con tranquillità e con affetto, anche se lo comunichiamo a modo nostro, non importa. Se hai voglia, continua a dirmi come ti senti, i dubbi che hai, le scelte che vuoi prendere per il futuro. A me fa sempre piacere essere coinvolto, e se posso, dirti cosa ne penso. Se vorrai ti esprimerò anche io come mi sento, magari a modo mio, magari non sempre.
 
 ps: vedilo come uno dei vari foglietti o post-it che ti ho lasciato in giro, solo un po' più lungo.
 
