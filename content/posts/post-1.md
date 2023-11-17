@@ -1,8 +1,8 @@
 ---
-title: "Oggi piove"
+title: 
 date: 2023-11-14T02:01:58+05:30
-description: "Primo post di prova"
-tags: [Varie]
+description: 
+tags: [.]
 ---
 
  Forse sarebbe meglio non parlarne più, lasciar perdere e andare oltre, abbiamo ben altri problemi a cui pensare, ma dopo l'altra sera continuo a non riuscire a liberarmi di una generale sensazione di amarezza. Ho deciso quindi di scrivere quello che ho provato per cercare di ordinarlo e visualizzarlo. È anche un messaggio per te, se hai voglia di leggerlo, e per questo te lo condivido.
