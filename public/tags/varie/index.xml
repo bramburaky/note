@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varie on Note</title>
+    <link>/tags/varie/</link>
+    <description>Recent content in Varie on Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 02:01:58 +0530</lastBuildDate><atom:link href="/tags/varie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oggi piove</title>
+      <link>/posts/post-1/</link>
+      <pubDate>Tue, 14 Nov 2023 02:01:58 +0530</pubDate>
+      
+      <guid>/posts/post-1/</guid>
+      <description>è iniziata la stagione delle piogge, pare</description>
+    </item>
+    
+  </channel>
+</rss>
